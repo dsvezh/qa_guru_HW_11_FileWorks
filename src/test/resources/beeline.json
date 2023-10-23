@@ -1,0 +1,93 @@
+{
+  "titleRegion": "Домашний интернет в Москве",
+  "region": {
+    "id": 98140,
+    "label": "Москва"
+  },
+  "tariffs": [
+    {
+      "id": 7918768,
+      "name": "для дома 100",
+      "alias": "dlya-doma-100",
+      "speed": {
+        "value": "100",
+        "unit": "Мбит/сек",
+        "numberValue": null
+      },
+      "discription": "",
+      "fee": {
+        "isEmpty": false,
+        "textValue": null,
+        "value": "500",
+        "unit": "₽/месяц",
+        "legal": null,
+        "title": "Минимальная стоимость fttb-пресета"
+      },
+      "oldFee": {
+        "isEmpty": true,
+        "textValue": null,
+        "value": "",
+        "unit": "",
+        "legal": null,
+        "title": null
+      },
+      "productType": 2
+    },
+    {
+      "id": 7931822,
+      "name": "для дома 300 Акция",
+      "alias": "dlya-doma-300-akciya",
+      "speed": {
+        "value": "300",
+        "unit": "Мбит/сек",
+        "numberValue": null
+      },
+      "discription": "",
+      "fee": {
+        "isEmpty": false,
+        "textValue": "на 3 месяца",
+        "value": "500",
+        "unit": "₽/месяц",
+        "legal": "Указанная промоцена действует первые 3&nbsp;месяца. Далее&nbsp;&mdash; 600&nbsp;&#8381;/месяц.",
+        "title": "Абонентская плата"
+      },
+      "oldFee": {
+        "isEmpty": false,
+        "textValue": null,
+        "value": "600",
+        "unit": "₽/месяц",
+        "legal": null,
+        "title": "Минимальная стоимость fttb-пресета"
+      },
+      "productType": 2
+    },
+    {
+      "id": 7939958,
+      "name": "для дома 500",
+      "alias": "dlya-doma-500",
+      "speed": {
+        "value": "500",
+        "unit": "Мбит/сек",
+        "numberValue": null
+      },
+      "discription": "",
+      "fee": {
+        "isEmpty": false,
+        "textValue": null,
+        "value": "800",
+        "unit": "₽/месяц",
+        "legal": null,
+        "title": "Минимальная стоимость fttb-пресета"
+      },
+      "oldFee": {
+        "isEmpty": true,
+        "textValue": null,
+        "value": "",
+        "unit": "",
+        "legal": null,
+        "title": null
+      },
+      "productType": 2
+    }
+  ]
+}
